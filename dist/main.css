@@ -11120,6 +11120,21 @@ h3, .h3 {
   padding: 1.5rem;
 }
 
+.logo__header {
+  font-size: 5rem;
+  font-weight: 700;
+  font-family: "Cantarell", sans-serif !important;
+  color: white;
+  text-decoration: underline;
+}
+
+.logo__header-2 {
+  font-size: 3rem;
+  font-weight: 700;
+  font-family: "Cantarell", sans-serif !important;
+  color: white;
+}
+
 .hero__image {
   width: 100%;
   margin: 0 auto;
@@ -11172,8 +11187,7 @@ h3, .h3 {
 }
 
 .feature__main-image {
-  max-width: 100%;
-  height: auto;
+  width: 100%;
 }
 
 .shadow {
