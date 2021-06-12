@@ -93,7 +93,8 @@
 }
 
 .feature__main-image {
-  width: 100%;
+  max-width: 100%;
+  max-height: auto;
 }
 
 .shadow {
